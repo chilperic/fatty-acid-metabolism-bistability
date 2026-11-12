@@ -1,0 +1,6 @@
+{
+  "schema_version": "1.0",
+  "source_commit": "ded9c08b4b5aaba96ecf0a3f5cc0fd7148e7d3e2",
+  "files": [],
+  "note": "Checksums preserve input identity, not scientific correctness. Original data remain unchanged."
+}
