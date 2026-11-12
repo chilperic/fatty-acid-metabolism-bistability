@@ -40,7 +40,7 @@ flowchart TD
 ## Repository structure
 
 ```text
-default/
+fatty-acid-metabolism-bistability/
 ├── src/fa_metabolism_bistability/  # reusable Python package
 ├── scripts/                        # runnable workflows
 ├── tests/                          # lightweight checks
@@ -112,3 +112,7 @@ This repository corresponds to the qualitative-analysis part of the PhD thesis: 
 ## License and provenance
 
 MIT license. Check legacy files before reusing them outside this repository, because they preserve exploratory research material and may contain old comments, drafts, or dependencies.
+
+## Maintaining this repository
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the directory map, output conventions, provenance and cleanup boundaries.
